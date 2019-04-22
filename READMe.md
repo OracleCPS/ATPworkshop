@@ -23,6 +23,10 @@ For this lab, your instructors will have the above items procured for you.
 
 This lab walks through how to spin up an OIC instance and other basics. It also goes through another use case. 
 
+[Provisioning an Autonomous Database](https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=LabGuide1.md)
+
+This lab explains how to spin up an Autonomous Database and acquire your own Cloud Wallet. The steps for ADW are the same for ATP.
+
 ### Notes for instructors
 
 ### **STEP 1**: These tables need to be created within the ATP instance
