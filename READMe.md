@@ -11,7 +11,7 @@ This lab will teach you how to make an integration with Oracle’s ATP database,
 	1. OIC instance 
 	2. ATP instance
 		- with a Cloud Wallet
-	3. Visual Builder Cloud Service, VBCS, app
+	3. Visual Builder Cloud Service, VBCS, app [The template is the "ATPWorkshop.zip" in this repo, lab300 shows how to import this to your environment]
       - the file to import is in the folder with this lab, it is a zip file called "ATPWorkshop.zip"
 	4. Generic REST adapter
 
