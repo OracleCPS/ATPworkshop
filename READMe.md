@@ -27,6 +27,10 @@ This lab walks through how to spin up an OIC instance and other basics. It also 
 
 This lab explains how to spin up an Autonomous Database and acquire your own Cloud Wallet. The steps for ADW are the same for ATP.
 
+[Creating a generic REST adapter](https://github.com/OracleCPS/oic-intro/blob/master/tutorial101.md)
+
+This short tutorial explains how to create a generic REST adapter.
+
 ### Notes for instructors
 
 ### **STEP 1**: These tables need to be created within the ATP instance
