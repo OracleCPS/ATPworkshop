@@ -19,7 +19,7 @@ A prospective customer is entering his or her information on the company website
       - the file to import is in the folder with this lab, it is a zip file called "ATPWorkshop.zip"
 	4. Generic REST adapter
 
-For this lab, your instructors will have the above items procured for you.
+If your instructors have not procured the above items for you, please follow the steps below in Lab 100. 
 
 ## Lab 100: Introduction to OIC
 
