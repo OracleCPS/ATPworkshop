@@ -18,7 +18,7 @@ A prospective customer is entering his or her information on the company website
 	3. Visual Builder Cloud Service, VBCS, app 
       - the file to import is in the folder with this lab, it is a zip file called "ATPWorkshop.zip"
 	4. Generic REST adapter
-	5. [SQL Developer](https://www.oracle.com/technetwork/developer-tools/sql-developer/downloads/index.html)
+	5. SQL Developer
 
 If your instructors have not procured the above items for you, please follow the steps below in Lab 100. 
 
