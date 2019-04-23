@@ -24,6 +24,10 @@ If your instructors have not procured the above items for you, please follow the
 
 # Lab 100: Spinning up ATP and OIC prerequisites
 
+[Download SQL Developer](https://www.oracle.com/technetwork/developer-tools/sql-developer/downloads/index.html)
+
+You will need SQL Developer to load and view data into your ATP database. If you are having connectivity issues, make sure you are not on a VPN. 
+
 [Provisioning an Autonomous Database](https://oracle.github.io/learning-library/workshops/autonomous-transaction-processing/?page=LabGuide100ProvisionAnATPDatabase.md)
 
 This lab explains how to spin up an Autonomous Database and acquire your own Cloud Wallet. 
