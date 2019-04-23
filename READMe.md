@@ -21,21 +21,21 @@ A prospective customer is entering his or her information on the company website
 
 If your instructors have not procured the above items for you, please follow the steps below in Lab 100. 
 
-## Lab 100: Introduction to OIC
-
-[Introduction to Oracle Integration Cloud](https://github.com/KseniiaRyuma/HCM_to_EBS_integration/blob/master/oic100.md)
-
-This lab walks through how to spin up an OIC instance and other basics. It also goes through another use case. 
+# Lab 100: Spinning up ATP and OIC prerequisites
 
 [Provisioning an Autonomous Database](https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=LabGuide1.md)
 
 This lab explains how to spin up an Autonomous Database and acquire your own Cloud Wallet. The steps for ADW are the same for ATP.
 
+[Introduction to Oracle Integration Cloud](https://github.com/KseniiaRyuma/HCM_to_EBS_integration/blob/master/oic100.md)
+
+This lab walks through how to spin up an OIC instance and other basics. It also goes through another use case. 
+
 [Creating a generic REST adapter](https://github.com/OracleCPS/oic-intro/blob/master/tutorial101.md)
 
 This short tutorial explains how to create a generic REST adapter.
 
-### Notes for instructors
+## Notes for instructors
 
 ### **STEP 1**: These tables need to be created within the ATP instance
 
