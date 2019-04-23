@@ -20,7 +20,7 @@ A prospective customer is entering his or her information on the company website
 	4. Generic REST adapter
 	5. SQL Developer
 
-If your instructors have not procured the above items for you, please follow the steps below in Lab 100. 
+If your instructors have not procured the above items for you, please follow the steps in Lab 100. 
 
 # Lab 100: Spinning up ATP and OIC prerequisites
 
