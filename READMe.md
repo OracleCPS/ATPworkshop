@@ -18,14 +18,19 @@ A prospective customer is entering his or her information on the company website
 	3. Visual Builder Cloud Service, VBCS, app 
       - the file to import is in the folder with this lab, it is a zip file called "ATPWorkshop.zip"
 	4. Generic REST adapter
+	5. [SQL Developer](https://www.oracle.com/technetwork/developer-tools/sql-developer/downloads/index.html)
 
 If your instructors have not procured the above items for you, please follow the steps below in Lab 100. 
 
 # Lab 100: Spinning up ATP and OIC prerequisites
 
-[Provisioning an Autonomous Database](https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=LabGuide1.md)
+[Provisioning an Autonomous Database](https://oracle.github.io/learning-library/workshops/autonomous-transaction-processing/?page=LabGuide100ProvisionAnATPDatabase.md)
 
-This lab explains how to spin up an Autonomous Database and acquire your own Cloud Wallet. The steps for ADW are the same for ATP.
+This lab explains how to spin up an Autonomous Database and acquire your own Cloud Wallet. 
+
+[Downloading the Cloud Wallet and connecting to your database](https://oracle.github.io/learning-library/workshops/autonomous-transaction-processing/?page=LabGuide200SecureConnectivityAndDataAccess.md)
+
+You will need the cloud wallet in order to connect your database on OIC. You will also need to connect your database to SQL Developer in order to run the SQL demands in the "Notes for instructors" section below. This lab explains how to do those actions. 
 
 [Introduction to Oracle Integration Cloud](https://github.com/KseniiaRyuma/HCM_to_EBS_integration/blob/master/oic100.md)
 
