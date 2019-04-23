@@ -9,6 +9,8 @@ This lab will teach you how to make an integration with Oracle’s ATP database,
 
 ## Use case 
 
+![](screenshots/general/3.png)
+
 A prospective customer is entering his or her information on the company website (VBCS app), then the website returns to the customer their assigned market and client status. Lastly, the integration takes the customer’s information and the sales rep’s info and puts that in a separate table in the database as a way of managing which sales reps are assigned to which customers. 
 
 ## Prequisites
