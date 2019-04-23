@@ -34,17 +34,17 @@ You will need the cloud wallet in order to connect your database on OIC. You wil
 
 [Introduction to Oracle Integration Cloud](https://github.com/KseniiaRyuma/HCM_to_EBS_integration/blob/master/oic100.md)
 
-This lab walks through how to spin up an OIC instance and other basics. It also goes through another use case. 
+This lab walks through how to spin up an OIC instance and other basics. It also goes through another use case. For this lab you can stop after you spin up OIC and arrive at the home page. 
 
 [Creating a generic REST adapter](https://github.com/OracleCPS/oic-intro/blob/master/tutorial101.md)
 
-This short tutorial explains how to create a generic REST adapter.
+This short tutorial explains how to create a generic REST adapter in OIC. You will need this adapter in lab 200. 
 
 ## Notes for instructors
 
 ### **STEP 1**: These tables need to be created within the ATP instance
 
-Copy the commands below and run them in SQL Developer
+Copy the commands below and run them in SQL Developer when connected to the ATP database. 
 
 ```
 CREATE TABLE Market (
