@@ -28,6 +28,8 @@ A prospective customer is entering his or her information on the company website
 
 If your instructors have not procured the above items for you, please follow the steps in Lab 100. 
 
+If you would like to learn how to Visual Builder, [view this lab.](https://dppham1.github.io/WorkshopTemplate/workshops/workshop-template/index.html?page=LabGuide100.md)
+
 
 
 
